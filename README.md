@@ -1,0 +1,2 @@
+# aistarship
+artificial stars explorer
